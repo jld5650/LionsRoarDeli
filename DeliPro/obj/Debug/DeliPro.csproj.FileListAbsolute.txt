@@ -1,0 +1,9 @@
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\bin\Debug\DeliPro.exe.config
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\obj\Debug\DeliPro.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\obj\Debug\DeliPro.Form1.resources
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\obj\Debug\DeliPro.Properties.Resources.resources
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\obj\Debug\DeliPro.csproj.GenerateResource.Cache
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\bin\Debug\DeliPro.exe
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\bin\Debug\DeliPro.pdb
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\obj\Debug\DeliPro.exe
+C:\Users\owner\Documents\School\IST 297\DeliPro\DeliPro\obj\Debug\DeliPro.pdb
